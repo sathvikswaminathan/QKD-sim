@@ -29,10 +29,12 @@ pip install -r requirements.txt
 
 Run the code using the following commands
 
-```python3 bb84.py
+```
+python3 bb84.py
 ```  
 
 OR
 
-``` python3 b92.py
+``` 
+python3 b92.py
 ```
