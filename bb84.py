@@ -1,11 +1,3 @@
-"""
-Alice and Bob communicate a secret key via a quantum communication channel ( such as a 
-fiber optic cable which uses the polarization of a photon to represent the state of a qubit ). 
-This secret key will then be useful to allow them to communicate via a classical communication
-channel using symmetric key cryptography. They'll also be notified incase an intruder tries to 
-intercept the key.
-"""
-    
 from qiskit import QuantumCircuit, Aer, assemble
 from numpy.random import randint
 import random
