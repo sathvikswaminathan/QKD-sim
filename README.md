@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Clone this repository by running the following command:
 
-`git clone sathvikswaminathan/QKD-sim`
+`git clone https://github.com/sathvikswaminathan/QKD-sim`
 
 Change the current working directory to the `QKD-sim` by running the following command:
 
